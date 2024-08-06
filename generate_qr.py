@@ -19,4 +19,4 @@ qr.make(fit=True)
 img = qr.make_image(fill_color="black", back_color="white")
 
 # Save the image to a file
-img.save("tardis_project_qr.png")
+img.save("Name_Whatever_You_Want.png")
